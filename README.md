@@ -14,12 +14,12 @@ A file upload demo by using ReactJS and NestJS.
 
 ## Features
 
-- [] File upload
-- [] File preview
-- [] File chunked upload
-- [] File upload progress
-- [] File upload pause and resume
-- [] File transfer in seconds
-- [] File resuming at breakpoint
-- [] Optimize using web workers
-- [] File upload retry mechanism
+- [ ] File upload
+- [ ] File preview
+- [ ] File chunked upload
+- [ ] File upload progress
+- [ ] File upload pause and resume
+- [ ] File transfer in seconds
+- [ ] File resuming at breakpoint
+- [ ] Optimize using web workers
+- [ ] File upload retry mechanism
