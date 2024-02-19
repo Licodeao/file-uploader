@@ -1,0 +1,15 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "Implement file upload by using「ReactJS + NestJS」",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "NestJS",
+    "FileUpload"
+  ],
+  "author": "Licodeao <https://github.com/Licodeao>",
+  "license": "MIT"
+}
